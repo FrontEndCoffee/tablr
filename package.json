@@ -1,0 +1,28 @@
+{
+  "name": "tablr",
+  "version": "1.0.0",
+  "description": "A module that generates plain-text tables from JSON data",
+  "main": "tablr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FrontEndCoffee/tablr.git"
+  },
+  "keywords": [
+    "table",
+    "debug",
+    "console",
+    "plaintext"
+  ],
+  "author": "Jesse Kramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontEndCoffee/tablr/issues"
+  },
+  "homepage": "https://github.com/FrontEndCoffee/tablr#readme",
+  "devDependencies": {
+    "uglify": "^0.1.5"
+  }
+}
