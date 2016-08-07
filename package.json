@@ -1,6 +1,6 @@
 {
   "name": "tablr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that generates plain-text tables from JSON data",
   "main": "tablr.js",
   "scripts": {
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/FrontEndCoffee/tablr/issues"
   },
-  "homepage": "https://github.com/FrontEndCoffee/tablr#readme",
-  "devDependencies": {
-    "uglify": "^0.1.5"
-  }
+  "homepage": "https://github.com/FrontEndCoffee/tablr#readme"
 }

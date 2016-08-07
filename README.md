@@ -20,7 +20,9 @@ This data will be used in all the examples.
 
 For the sample data you'll use the module like this:
 ``` javascript
-tablr.simple( data )
+console.log(
+  tablr.simple( data )
+)
 ```
 
 And the output will look like this:
@@ -48,7 +50,9 @@ And the output will look like this:
 
 Of course you might want to add a heading to the table.
 ``` javascript
-console.log( tablr.headed(data, ['HOUSE', 'REGION', 'WORDS']) )
+console.log(
+  tablr.headed(data, ['HOUSE', 'REGION', 'WORDS'])
+)
 ```
 
 And the output will look like this:
