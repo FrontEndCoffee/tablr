@@ -2,7 +2,7 @@
 A module that generates plain-text tables from JSON data
 
 A piece of JSON data you might want to process is:
-``` JSON
+``` javascript
 [
   ["Lannister", "The Crownlands", "Hear me roar"],
   ["Stark", "The North", "Winter is coming"],
